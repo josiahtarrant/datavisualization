@@ -16,4 +16,6 @@ My thesis will be using what's called event-study methodology to explain an anno
 
 Data comes from Yahoo Finance. Apple data can be found [here](https://finance.yahoo.com/quote/AAPL/), Google data can be found [here](https://finance.yahoo.com/quote/GOOG/).
 
+---
+
 **Lastly,** [here](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_02) is the link to this assignment!
