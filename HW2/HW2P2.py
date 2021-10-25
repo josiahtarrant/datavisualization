@@ -27,7 +27,6 @@ plt.plot_date(date_time, AAPL, color = 'b', linestyle='solid', label = 'AAPL')
 plt.plot_date(date_time, GOOG, color = 'g', linestyle='solid', label = 'GOOG')
 
 plt.xlabel('Return to Work Strategy', fontweight='bold')
-#plt.xticks(date_time[0], date_time[18])
 plt.xticks(rotation = 25)
 plt.ylabel('Closing Share Price ($)', fontweight='bold')
 plt.title('Apple and Google\'s share price (January 2021)')
